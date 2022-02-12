@@ -84,7 +84,7 @@ Here is a list of the features in this dataset:
 
 # Model Accuracy
 
-![Different Models](model accuracy.png).
+![different Models](model_accuracy.png).
 
 
 
