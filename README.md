@@ -30,7 +30,7 @@ Here is a list of the features in this dataset:
 
 # This project intends to answer the following questions:
 *What are the ranges of battery power, internal memory and rams of phones available in the market and it's influence on the price range.\
-*influence of 3G and 4G enabled phones in the price of phones market.\
+*influence of 3G and 4G enabled phones on the price range.\
 *What model best fits our price prediction task and it's accuracy level
 
 # Benefit of project
