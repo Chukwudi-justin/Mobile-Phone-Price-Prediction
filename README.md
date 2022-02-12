@@ -28,7 +28,7 @@ Here is a list of the features in this dataset:
 **wifi**:Has wifi or not, i.e *Yes = 1* or *No = 0*.\
 **price_range**: This classifies the prices of phones, i.e *0 = Low Budget*, *1 = Mid-Range*, *3 = Modest*, *4 = High Budget*.
 
-# This project is intends to answer the following questions:
+# This project intends to answer the following questions:
 *What are the ranges of battery power, internal memory and rams of phones available in the market and it's influence on the price range.\
 *influence of 3G and 4G enabled phones in the price of phones market.\
 *What model best fits our price prediction task and it's accuracy level
@@ -77,7 +77,7 @@ Here is a list of the features in this dataset:
 
 ![battery vs price](b3vsprice2.png).
 
-# Front camera vs Primary/Back camera
+# Front camera vs Primary(Back) camera
 
 ![Front vs Back](fcandpc.png).
 
