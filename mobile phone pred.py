@@ -49,6 +49,7 @@ df_train = pd.read_csv('phone_train.csv')
 df_test = pd.read_csv('phone_test.csv')
 # %%
 df_train.head()
+
 # %%
 df_train.columns
 # %%
